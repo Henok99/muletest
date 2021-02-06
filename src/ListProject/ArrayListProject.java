@@ -25,6 +25,7 @@ public class ArrayListProject {
 	sArray.add("Maste");
 	sArray.add("Sunny");
 	sArray.add("Abiy");
+	sArray.add("Nebiyu");
 	
 	for(String a : sArray) {
 		System.out.println(a);
