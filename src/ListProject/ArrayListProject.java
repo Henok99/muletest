@@ -26,6 +26,7 @@ public class ArrayListProject {
 	sArray.add("Sunny");
 	sArray.add("Abiy");
 	sArray.add("Nebiyu");
+	sArray.add("adding code from Github");	
 	
 	for(String a : sArray) {
 		System.out.println(a);
